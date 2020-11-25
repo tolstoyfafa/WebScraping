@@ -1396,3 +1396,55 @@ JavaScript warning: https://logs.jobs.com/coreTrackFP, line 1: WebGL warning: <C
 JavaScript warning: https://logs.jobs.com/coreTrackFP, line 1: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
 1606304626974	Marionette	INFO	Stopped listening on port 40181
+1606319030514	geckodriver	INFO	Listening on 127.0.0.1:39109
+1606319030521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoAWzq8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606319032594	Marionette	INFO	Listening on port 34385
+1606319032646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606319046004	geckodriver	INFO	Listening on 127.0.0.1:42165
+1606319046009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKOun4X"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606319048528	Marionette	INFO	Listening on port 45679
+1606319048683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606319099416	geckodriver	INFO	Listening on 127.0.0.1:51899
+1606319099422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOeeiul"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606319101961	Marionette	INFO	Listening on port 43951
+1606319102053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606319178438	geckodriver	INFO	Listening on 127.0.0.1:33059
+1606319178445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexZXN9d"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606319180323	Marionette	INFO	Listening on port 39783
+1606319180373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606319184357	Marionette	INFO	Stopped listening on port 39783
+1606319335961	geckodriver	INFO	Listening on 127.0.0.1:37453
+1606319335967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1ZxJZE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606319337981	Marionette	INFO	Listening on port 38263
+1606319338101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606319367386	geckodriver	INFO	Listening on 127.0.0.1:54357
+1606319367391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePTfkWU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606319369440	Marionette	INFO	Listening on port 42943
+1606319369518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606319371679	Marionette	INFO	Stopped listening on port 42943
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 594: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1606319384041	geckodriver	INFO	Listening on 127.0.0.1:49403
+1606319384049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWWplyf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606319386062	Marionette	INFO	Listening on port 34625
+1606319386185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606319420463	geckodriver	INFO	Listening on 127.0.0.1:36807
+1606319420467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAMTVez"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606319422715	Marionette	INFO	Listening on port 37073
+1606319422797	Marionette	WARN	TLS certificate errors will be ignored for this session
