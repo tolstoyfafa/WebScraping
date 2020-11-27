@@ -1,0 +1,4 @@
+.ipynb_checkpoints/**
+note.md
+geckodriver.log
+scrap_jobs**
